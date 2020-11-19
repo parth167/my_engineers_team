@@ -4,7 +4,7 @@
 
 ## Links to Deployed Pages
 
-- [Link to Git Hub Repository]()
+- [Link to Git Hub Repository](https://github.com/parth167/my_engineers_team.git)
 
 - [LinkedIn](https://www.linkedin.com/in/parth-patel-4725381b5/)
 - [GitHub](https://github.com/parth167/)
@@ -13,7 +13,7 @@
 
 - In this repo i created a team profile generator, User can generate their them profile by adding engineers details intern details and manager info for their team by following propmpt in terminal to generate team profile.Below image is show you the generated team.html file screenshot and video link is show you the steps how to generate team profile
 
-* ![screen shot of generated html]() screenshot of
+* ![screen shot of generated html](https://github.com/parth167/my_engineers_team/blob/main/assest/my_team.jpg) screenshot of
 
 * [video demo]()
 
