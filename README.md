@@ -5,7 +5,6 @@
 ## Links to Deployed Pages
 
 - [Link to Git Hub Repository](https://github.com/parth167/my_engineers_team.git)
-
 - [LinkedIn](https://www.linkedin.com/in/parth-patel-4725381b5/)
 - [GitHub](https://github.com/parth167/)
 
@@ -13,9 +12,9 @@
 
 - In this repo i created a team profile generator, User can generate their them profile by adding engineers details intern details and manager info for their team by following propmpt in terminal to generate team profile.Below image is show you the generated team.html file screenshot and video link is show you the steps how to generate team profile
 
-* ![screen shot of generated html](https://github.com/parth167/my_engineers_team/blob/main/assest/my_team.jpg) screenshot of
+* ![screen shot of generated html](https://github.com/parth167/my_engineers_team/blob/main/assest/my_team.jpg) screenshot of app
 
-* [video demo]()
+* [video demo](https://github.com/parth167/my_engineers_team/blob/main/assest/my_enginners_team.mp4)
 
 ## Table of Contents
 
@@ -41,11 +40,11 @@
 
 ## Contributing
 
-- user can issued on github or contect me on email for contribute
+- user can issued on github or contect me on email for contribute.
 
 ## Tests
 
-- To test the project,type 'npm test' in terminal commend line
+- To test the project,type 'npm test' in terminal commend line.
 
 ## Questions
 
